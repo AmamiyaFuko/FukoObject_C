@@ -1,0 +1,11 @@
+Class name_object		//create oop object
+Class name_object(super1, super2....)
+
+Base Class name_object	//create obp object
+//obp cannot inherit
+
+Sent mamber To name_object	//return mamber_ptr
+name_object.mamber
+
+//Add name_object.mamber
+
